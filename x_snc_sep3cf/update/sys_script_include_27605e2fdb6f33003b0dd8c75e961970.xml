@@ -10,6 +10,7 @@
         <script><![CDATA[var sr2 = Class.create();
 sr2.prototype = {
     initialize: function() {
+//testing from git
     },
 
     type: 'sr2'
