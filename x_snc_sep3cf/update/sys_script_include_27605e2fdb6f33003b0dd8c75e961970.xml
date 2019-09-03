@@ -2,30 +2,30 @@
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
         <active>true</active>
-        <api_name>x_snc_sep3cf.sr2</api_name>
+        <api_name>x_snc_sep3cf.sr2a</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
         <description/>
-        <name>sr2</name>
-        <script><![CDATA[var sr2 = Class.create();
-sr2.prototype = {
+        <name>sr2a</name>
+        <script><![CDATA[var sr2a = Class.create();
+sr2a.prototype = {
     initialize: function() {
 //testing from git
     },
 
-    type: 'sr2'
+    type: 'sr2a'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin1</sys_created_by>
         <sys_created_on>2019-09-03 21:56:49</sys_created_on>
         <sys_id>27605e2fdb6f33003b0dd8c75e961970</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>sr2</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sr2a</sys_name>
         <sys_package display_value="sep3cf" source="x_snc_sep3cf">f3df462fdb6f33003b0dd8c75e961964</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="sep3cf">f3df462fdb6f33003b0dd8c75e961964</sys_scope>
         <sys_update_name>sys_script_include_27605e2fdb6f33003b0dd8c75e961970</sys_update_name>
         <sys_updated_by>admin1</sys_updated_by>
-        <sys_updated_on>2019-09-03 21:56:49</sys_updated_on>
+        <sys_updated_on>2019-09-03 23:00:30</sys_updated_on>
     </sys_script_include>
 </record_update>
